@@ -1,2 +1,4 @@
-data/
+data/test_v2/*.jpg
+data/train_v2/*.jpg
+data/*.csv
 .ipynb_checkpoints/
